@@ -1,0 +1,22 @@
+@font-face {
+    /* تعریف نام فونت */
+    font-family: 'BZar';
+    src: local('bZar'),
+         /* تمام مرورگرها به جزء اکسپلورر */
+         url("/static/font/BZar.woff") format('woff');
+
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
+@font-face {
+    /* تعریف نام فونت */
+    font-family: 'BHoma';
+    src: local('BHoma'),
+         /* تمام مرورگرها به جزء اکسپلورر */
+         url("/static/font/BHoma.woff") format('woff');
+
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
